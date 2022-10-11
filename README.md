@@ -1,4 +1,4 @@
-### Olá meu nome é Michel Souza Ramos, seja bem vindo(a) ao meu perfil no github. Fique a vontade para "bisbilhotar" 😝 
+### Olá meu nome é Michel Souza Ramos, seja bem vindo(a) ao meu perfil no github.
 ##
 
 <div align="center">
