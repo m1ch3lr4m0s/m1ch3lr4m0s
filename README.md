@@ -1,5 +1,8 @@
-### Olá meu nome é Michel Souza Ramos, seja bem vindo(a) ao meu perfil no github.
+### Olá! Meu nome é Michel Souza Ramos, seja bem vindo(a) ao meu perfil no github. 🖖🏻🖖🏻🖖🏻
 ##
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548996592026)
+[![Facebook]([https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white))](https://www.facebook.com/profile.php?id=61571291982970)
 
 <div align="center">
   <a href="https://github.com/m1ch3lr4m0s">
