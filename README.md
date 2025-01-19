@@ -1,9 +1,9 @@
 ## 💻 Michel Souza Ramos
 > Programador Fullstack | Criador de conteúdo
 <p align="left">
-🖖🏻 Olá! Sou um desenvolvedor full-stack e um entusiasta da tecnologia, sempre em busca de novas aventuras no mundo digital. Minha jornada é uma constante exploração de habilidades e desafios, onde cada dia é uma oportunidade de me reinventar e evoluir. Com cada linha de código, estou moldando a minha melhor versão, um passo de cada vez. Vamos juntos nessa jornada de inovação e aprendizado! 🚀
+🖖🏻 Olá! Sou um desenvolvedor full-stack e um entusiasta da tecnologia, sempre em busca de novas aventuras no mundo digital. Minha jornada é uma constante exploração de habilidades e desafios, onde cada dia é uma oportunidade de me reinventar e evoluir. Com cada linha de código, estou moldando a minha melhor versão, um passo de cada vez.
 </p>
-<h3>MERN</h3>
+<h4>MERN</h4>
 <p>
   Optei pela Stack MERN (MongoDB, Express.js, React e Node.js) devido à sua incrível versatilidade e poder de transformar ideias em aplicativos web robustos e escaláveis. Essa combinação poderosa me permite construir experiências dinâmicas e interativas, adaptando-se facilmente às necessidades em constante evolução do mundo digital.
 </p>
@@ -24,6 +24,13 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+          
+
+          
+          
+          
 <br />
 
 #
