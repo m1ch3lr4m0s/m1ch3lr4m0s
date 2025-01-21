@@ -1,13 +1,9 @@
 ## 💻 Michel Souza Ramos 
 > Programador Fullstack MERN
 
-<div style="display: flex; align-items: flex-start;">
-    <p style="margin-right: 20px; text-align: justify;">
+<p>
         🖖🏻 Olá! Sou um desenvolvedor full-stack e um entusiasta da tecnologia, sempre em busca de novas aventuras no mundo digital. Minha jornada é uma constante exploração de habilidades e desafios, onde cada dia é uma oportunidade de me reinventar e evoluir. Com cada linha de código, estou moldando a minha melhor versão, um passo de cada vez.
     </p>
-    <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
-</div>
-
 <h4>MERN</h4>
 <p>
   Optei pela Stack MERN (MongoDB, Express.js, React e Node.js) devido à sua incrível versatilidade e poder de transformar ideias em aplicativos web robustos e escaláveis. Essa combinação poderosa me permite construir experiências dinâmicas e interativas, adaptando-se facilmente às necessidades em constante evolução do mundo digital.
